@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Nova AI</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+<h2>🤖 NovaAI</h2>
+<div>
+<a href="#">Home</a>
+<a href="#">Features</a>
+<a href="#">About</a>
+<a href="#">Contact</a>
+</div>
+</nav>
+
+<section class="hero">
+<div>
+<h1>Your Smart AI Assistant</h1>
+<p>Boost your productivity with powerful AI tools.</p>
+<a href="#" class="btn">Get Started</a>
+</div>
+<img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?w=500" alt="AI">
+</section>
+
+<section class="features">
+<div class="card">
+<img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=300">
+<h3>Fast</h3>
+<p>Quick AI responses.</p>
+</div>
+
+<div class="card">
+<img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=300">
+<h3>Smart</h3>
+<p>AI-powered solutions.</p>
+</div>
+
+<div class="card">
+<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=300">
+<h3>Secure</h3>
+<p>Your data stays safe.</p>
+</div>
+</section>
+
+<section class="about">
+<h2>About NovaAI</h2>
+<p>NovaAI helps students and professionals create, learn, and solve problems faster with artificial intelligence.</p>
+</section>
+
+<footer>
+<p>📧 info@novaai.com | 🌐 Facebook | Instagram | LinkedIn</p>
+<p>© 2026 NovaAI</p>
+</footer>
+
+</body>
+</html>
+
+
+
